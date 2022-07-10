@@ -1,0 +1,26 @@
+[{
+    
+    "price": 300,
+    "inet": 10,
+    "isChecked": false,
+    "color": "#2cc1d5",
+    "colorName": "#229cab"
+},{
+    "price": 450,
+    "inet": 50,
+    "isChecked": false,
+    "color": "#24ae8d",
+    "colorName": "#1f8972"
+},{
+    "price": 550,
+    "inet": 100,
+    "isChecked": true,
+    "color": "#f46a5f",
+    "colorName": "#c4554e"
+},{
+    "price": 1000,
+    "inet": 200,
+    "isChecked": false,
+    "color": "#333a44",
+    "colorName": "#282f37"
+}]
