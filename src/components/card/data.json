@@ -1,23 +1,26 @@
 [{
-    
+    "id": 1,
     "price": 300,
     "inet": 10,
     "isChecked": false,
     "color": "#2cc1d5",
     "colorName": "#229cab"
 },{
+    "id": 2,
     "price": 450,
     "inet": 50,
     "isChecked": false,
     "color": "#24ae8d",
     "colorName": "#1f8972"
 },{
+    "id": 3,
     "price": 550,
     "inet": 100,
-    "isChecked": true,
+    "isChecked": false,
     "color": "#f46a5f",
     "colorName": "#c4554e"
 },{
+    "id":4,
     "price": 1000,
     "inet": 200,
     "isChecked": false,

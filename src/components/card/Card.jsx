@@ -2,7 +2,7 @@
 import style from  './card.css'
 const Card = (props) => {
     return(
-    <div className={style.tarifCard + (props.isChecked ? " " + style.checked : " " )}>
+    <div onClick={() => props.onClick(props.id)} className={style.tarifCard + (props.isChecked ? " " + style.checked : " " )}>
             <div className={style.tarifHeader} 
             style={{backgroundColor: props.colorName}}>Безлимитный {props.price}</div>
             <div className={style.tarifBody}
